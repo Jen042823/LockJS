@@ -1,0 +1,44 @@
+header {
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  input {
+    width: 150px;
+  }
+  
+  .five-card {
+    background: #003cffcf;
+    color: white;
+  }
+
+  .high {
+      color : red;
+    
+  }
+  .low {
+      color : green;
+  }
+  #city-list {
+      width: 200px;;
+  }
+  .genbtn {
+      width: 100%;
+      margin: 0.5rem auto 0.5rem auto;
+  }
+  img {
+      background-color: skyblue;
+  }
+  .card-header {
+        background-color: #0044b3;
+        color: white;
+  }
+  @media only screen and (max-width: 960px) {
+  
+    /* .card-deck {
+      flex-wrap: wrap;
+      flex-direction: column;
+    } */
+
+  }
